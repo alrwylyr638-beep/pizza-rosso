@@ -27,16 +27,74 @@ footer{padding:24px;color:#aaa}
 <main>
 <h2>اكتشف القائمة</h2>
 <div class="card">
+<img src="https://pin.it/7y7QnEQXn"
+     alt="بيتزا مارجريتا"
+     style="width:100%;border-radius:12px;">
 <h3>🍕 بيتزا مارجريتا</h3>
 <p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
 </div>
 <div class="card">
-<h3>🍕 بيتزا بيبروني</h3>
-<p>بيتزا غنية بالجبن والبيبروني.</p>
+<img src="https://pin.it/6Cqxf0Bzm"
+     alt="بيتزا ببروني"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا ببروني</h3>
+<p>جبن موزاريلا وصلصة طماطم مع شرائح الببروني.</p>
 </div>
 <div class="card">
-<h3>🍕 بيتزا الخضار</h3>
-<p>خضار طازجة مع الجبن والصلصة.</p>
+<img src="https://pin.it/2lT1xk2DG"
+     alt="بيتزا خضار"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا خضار</h3>
+<p>جبن موزاريلا وصلصة طماطم وقطع خضار.</p>
+</div>
+<div class="card">
+<img src="رابط-صورة-المارجريتا"
+     alt="بيتزا مكس اجبان"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا مكس اجبان</h3>
+<p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
+</div>
+<div class="card">
+<img src="رابط-صورة-المارجريتا"
+     alt="بيتزا ديناميت"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا ديناميت</h3>
+<p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
+</div>
+<div class="card">
+<img src="رابط-صورة-المارجريتا"
+     alt="بيتزا باربكيو"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا باربكيو</h3>
+<p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
+</div>
+<div class="card">
+<img src="رابط-صورة-المارجريتا"
+     alt="بيتزا ترفل"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا ترفل</h3>
+<p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
+</div>
+<div class="card">
+<img src="رابط-صورة-المارجريتا"
+     alt="بيتزا ببروني انناس"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا ببروني انناس</h3>
+<p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
+</div>
+<div class="card">
+<img src="رابط-صورة-المارجريتا"
+     alt="بيتزا فيبي ستيك"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا فيلي ستيك</h3>
+<p>جبن موزاريلا وصلصة طماطم لذيذة.</p>
+</div>
+<div class="card">
+<img src="https://pin.it/5ZRA47Rs4"
+     alt="بيتزا رانش"
+     style="width:100%;border-radius:12px;">
+<h3>🍕 بيتزا رانش</h3>
+<p>جبن موزاريلا  وصور الرانش لذيذة.</p>
 </div>
 </main>
 <footer>Rosso Pizza © 2026</footer>
